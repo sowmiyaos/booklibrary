@@ -1,0 +1,68 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "AngularJS (1.0.0)",
+      "author": "June 14th, 2012",
+      "uid": "angjs001",
+      "edition": "1.0",
+      "rack_number": 1
+    },
+    {
+      "id": 2,
+      "title": "Angular 2",
+      "author": "June 14th, 2012",
+      "uid": "angjs002",
+      "edition": "2.0",
+      "rack_number": 1
+    },
+    {
+      "id": 3,
+      "title": "Angular 4",
+      "author": "June 14th, 2012",
+      "uid": "angjs004",
+      "edition": "4.0",
+      "rack_number": 1
+    },
+    {
+      "title": "fasdf",
+      "author": "fasdfasf",
+      "uid": "zgpc4pz30",
+      "edition": "fsadfsd",
+      "rack_number": "23",
+      "id": 4
+    },
+    {
+      "title": "fasdf",
+      "author": "asfasdf",
+      "uid": "byuggf8j5",
+      "edition": "fasdf",
+      "rack_number": "34",
+      "id": 5
+    },
+    {
+      "title": "afadf",
+      "author": "sdfasf",
+      "uid": "64w9obmy5",
+      "edition": "fdsfds",
+      "rack_number": "23",
+      "id": 6
+    },
+    {
+      "title": "Test title",
+      "author": "test author",
+      "uid": "tgfwqa2iy",
+      "edition": "23",
+      "rack_number": "56",
+      "id": 7
+    },
+    {
+      "title": "Text tite",
+      "author": "author sample ",
+      "uid": "c1d6ja2w1",
+      "edition": "dfadf",
+      "rack_number": "78",
+      "id": 8
+    }
+  ]
+}
